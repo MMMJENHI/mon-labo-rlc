@@ -1,5 +1,5 @@
 {
-  "name": "mon-labo-rlc2",
+  "name": "mon-labo-rlc",
   "private": true,
   "version": "0.1.0",
   "type": "module",
