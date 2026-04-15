@@ -1,8 +1,11 @@
+
+
 🔬 IA Lab RLC - Diagnostic Intelligent
 
 Bienvenue dans le laboratoire de simulation RLC assisté par Intelligence Artificielle. Ce projet compare les modèles physiques théoriques avec les prédictions d'un réseau de neurones LSTM.
 
 🚀 EXÉCUTER L'APPLICATION
+[![Lancer le Laboratoire](https://img.shields.io/badge/LANCER_LE_LABORATOIRE-IA_LAB_RLC-blue?style=for-the-badge&logo=rocket&logoColor=white)](https://mmmjenhi.github.io/mon-labo-rlc/)
 
 Cliquez sur le bouton ci-dessous pour ouvrir le laboratoire directement dans votre navigateur :
 
